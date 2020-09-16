@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tony Stark",
+      "email": "tony@hola.com",
+      "phone": "001-123-4567"
+    },
+    {
+      "id": 2,
+      "name": "Black Widow",
+      "email": "black-widow@mcu.com",
+      "phone": "001-123-4568"
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "phone": 0,
+      "id": 3
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "phone": "011",
+      "id": 4
+    }
+  ]
 }
